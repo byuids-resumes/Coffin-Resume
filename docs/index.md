@@ -14,22 +14,24 @@ __Brigham Young University-Idaho__, Rexburg, ID
 - Data Science Certificate
 - GPA: 3.947
 
+(Add hs diploma if possible)
 
-## Related Experience
+## Work History
+
+### Related Experiance
+
+`2017 - Present`
+__Idaho Laboratories Corporation__, Idaho Falls, ID
+Quality Assurance Associate
+
+- Analyze mineral insulated cable for defects to ensure high quality products.
+- Resolve problems with products and production to reduce future errors. 
+- Fix defects to salvage material. 
 
 ### Internships
 `2019`
 __Idaho Laboratories Corporation__, Idaho Falls, ID
-Accounts Receivable
-
-## Work History
-`2017 - Present`
-__Idaho Laboratories Corporation__, Idaho Falls, ID
-Quality Assurance Associate
--	Analyze mineral insulated cable for defects to ensure high quality products.
-- Resolve problems with products and production to reduce future errors. 
-- Fix defects to salvage material. 
-
+- Accounts Receivable
 
 <!-- ### Footer
 
